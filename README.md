@@ -12,11 +12,11 @@
 
 ## 🔮 Future Enhancements
 - **Context Adaptability**: Extend beyond interview scenarios.
-- **Personalized Responses**: AI tailors answers based on user interactions.
-- **Custom AI Models**: Support local and online model integrations.
-- **Improved Transparency**: Screen capture software compatibility.
-- **Computer Audio Support**: Direct system sound input.
-- **Predictive Q&A**: Display anticipated questions and answers.
+- **Personalized Responses**: AI tailors answers based on user's profile and background.
+- **Custom AI Models**: Support local model integrations.
+- **Improved Transparency**: Make the app transparent for screen capture softwares or screen shares. Its currently hides contents from screen capture softwares but it's only black not fully transparent.
+- **Computer Audio Support**: Make it listen to computer's sound (what is being played on the computer) it currently only listens to the mic. Or you have to manually route the computer sound to the mic input in order for the app to listen to the computer's audio.
+- **Predictive Q&A**: Pridict or contemplate upcoming quesions and show the questions and the answers at the right side of the window without affecting the realtime part of the chat.
 
 ## 🚀 Installation
 Ensure you have:
